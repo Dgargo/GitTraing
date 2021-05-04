@@ -1,0 +1,20 @@
+
+.HBlock{
+	float: left;
+	padding: 5px;
+	margin-left: 1px;
+	border: solid;
+	margin-top: 10px;
+
+}
+header{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 10px;
+}
+article{
+	margin-left: 35%;
+	margin-right: 40%;
+	
+
+}
